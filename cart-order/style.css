@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(135deg, #4f46e5, #d946ef);
+    color: #333;
+    padding-top: 20px;
+}
+.card {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.quantity input {
+    width: 50px;
+    text-align: center;
+}
+.btn-outline-secondary {
+    width: 32px;
+    height: 32px;
+    padding: 0;
+}
+.img-fluid {
+    max-width: 80px;
+    border-radius: 8px;
+}
